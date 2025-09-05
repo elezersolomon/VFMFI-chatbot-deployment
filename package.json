@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "type": "commonjs",
-  "type": "commonjs",
   "scripts": {
     "dev": "tsc-watch --onSuccess \"npm run start\"",
     "prod": "tsc-watch --onSuccess \"npm run start\"",

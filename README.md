@@ -2,9 +2,6 @@
 
 <p align="left">This is a telegram bot that listens to users telegram channel actions and interacts with the appropriate response. It is developed to enable users to post products they have for sale. </p>
 
-## Links
-
-- [Repo](https://github.com/tutushtutush/tlgrm_bot "tlgrm-bot Repo")
 
 <!-- To be updated when we have the items built
 - [Live](<Homepage url> "Live View")

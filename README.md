@@ -1,6 +1,6 @@
 # tlgrm-bot
 
-<p align="left">This is a redeployment of a private project that I worked on, a Telegram bot and portal system, where I was a project lead in designing, managing, and developing a Telegram bot and a React-based portal for management systems aimed at attracting Telegram platform users to the company. It is developed to enable users to post products they have for sale. </p>
+<p align="left">This is a redeployment of a private project that I worked on, a Telegram bot and portal system, where I was a project lead in designing, managing, and developing a Telegram bot and a React-based portal for management systems aimed at attracting Telegram platform users to the company. </p>
 
 
 <!-- To be updated when we have the items built
